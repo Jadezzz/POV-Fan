@@ -14,3 +14,7 @@ A POV (Persistancy Of Vision) fan based on microchip PIC18F4520
 * IR Remote
 * Lithium battery
 * Regular Fan
+
+Front View
+<img src = 'https://i.imgur.com/yig7Dmu.jpg' width="900px">
+<img src = 'https://i.imgur.com/4NQLHvr.jpg' width="900px">
