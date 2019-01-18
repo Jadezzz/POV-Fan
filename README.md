@@ -4,6 +4,7 @@ A POV (Persistancy Of Vision) fan based on microchip PIC18F4520
 ## Environment
 * MPLAB X IDE
 * XC8 Compiler
+* PicKit 3
 
 ## Hardware
 * Green LED * 10
