@@ -7,7 +7,7 @@ A POV (Persistancy Of Vision) fan based on microchip PIC18F4520
 * PicKit 3
 
 ## Hardware
-* Microchip PIC18F4520 micro controller
+* Microchip PIC18F4520 microcontroller
 * Green LED * 10
 * Hall Effect Sensor
 * Magnet
