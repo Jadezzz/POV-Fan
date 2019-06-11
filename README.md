@@ -22,3 +22,5 @@ A POV (Persistancy Of Vision) fan based on microchip PIC18F4520
 <img src = 'https://i.imgur.com/VJp4QHv.jpg' width="500px">
 
 ## Demo Video
+
+[POV Fan Demo](https://www.youtube.com/watch?v=M71t_RHV7-w)
